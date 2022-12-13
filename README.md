@@ -1,9 +1,9 @@
 # ARISTAEUS_PYTHON
-#Why i made this
+# Why i made this
 Fuck you
 I want to do python
-#Features
+# Features
 spammer sender nuker preset
 more coming soon
-#Why use this over the Java version?
+# Why use this over the Java version?
 dont
